@@ -48,13 +48,11 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ak91naplo@gmail.com"
+  email: "aka91naplo@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: ak911027
   github: akvcs91
   twitter: akoskodas
-  patreon: 
-  youtube: 
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
